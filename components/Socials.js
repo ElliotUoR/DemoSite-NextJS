@@ -14,7 +14,7 @@ export default function Socials() {
                 <WhiteBackground>
                     <Image
                         priority
-                        src="/images/icons/linked.png"
+                        src="/DemoSite-NextJS/images/icons/linked.png"
                         height={34}
                         width={34}
                         alt={"LinkedIn Icon"}
@@ -29,7 +29,7 @@ export default function Socials() {
 
                     <Image
                         priority
-                        src="/images/icons/github.png"
+                        src="/DemoSite-NextJS/images/icons/github.png"
                         height={34}
                         width={34}
                         alt={"Github Icon"}

@@ -1,0 +1,1 @@
+E:\Testing\ Land\Land\ 2\ -\ React\ JS\Attempt\ 6\ -\ First\ Next\ App\nextjs-blog\Rust\target\wasm32-unknown-unknown\release\wasm_test.wasm: E:\Testing\ Land\Land\ 2\ -\ React\ JS\Attempt\ 6\ -\ First\ Next\ App\nextjs-blog\Rust\src\lib.rs

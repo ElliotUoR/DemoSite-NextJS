@@ -1,0 +1,86 @@
+
+.rdbutton {
+    /* background-color: buttonface; */
+    background-color: darkgreen;
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    cursor: pointer;
+    justify-content: center;
+
+    transition: background-color 600ms linear;
+    z-index: 1;
+}
+
+.rdbutton:hover{
+    background-color: rgb(3, 70, 3);
+
+}
+
+.rdbutton:active{
+    background-color: rgb(35, 177, 19);
+}
+
+.rdbuttonLight {
+    background-color: blue;
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    cursor: pointer;
+    justify-content: center;
+
+    transition: background-color 600ms linear;
+}
+
+.rdbuttonLight:hover{
+    background-color: rgb(23, 71, 126);
+
+}
+
+.rdbuttonLight:active{
+    background-color: rgb(177, 19, 106);
+}
+
+.rdbuttonHome{
+    background-color: green;
+    position: relative;
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    cursor: pointer;
+    justify-content: center;
+    z-index: 1;
+    transition: background-color 600ms linear;
+}
+
+.rdbuttonHome:hover{
+    background-color: rgb(13, 78, 13);
+}
+
+.rdbuttonHome:active{
+    background-color: rgb(0, 23, 0);
+}
+
+.rdbuttonHomeLight{
+    background-color: rgb(48, 147, 172);
+    font-size: 20px;
+    position: relative;
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    cursor: pointer;
+    justify-content: center;
+    z-index: 1;
+    transition: background-color 600ms linear;
+}
+
+.rdbuttonHomeLight:hover{
+    background-color: rgb(142, 92, 202);
+}
+
+.rdbuttonHomeLight:active{
+    background-color: rgb(123, 64, 98);
+}

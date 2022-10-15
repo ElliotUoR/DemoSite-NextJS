@@ -1,0 +1,9 @@
+.postContainer{
+    display: inline-flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    margin: 0 auto;
+    padding: 10px 0;
+    gap: 1rem;
+
+  }

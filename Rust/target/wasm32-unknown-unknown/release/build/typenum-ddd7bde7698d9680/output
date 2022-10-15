@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=E:\Testing Land\Land 2 - React JS\Attempt 6 - First Next App\nextjs-blog\Rust\target\wasm32-unknown-unknown\release\build\typenum-ddd7bde7698d9680\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=E:\Testing Land\Land 2 - React JS\Attempt 6 - First Next App\nextjs-blog\Rust\target\wasm32-unknown-unknown\release\build\typenum-ddd7bde7698d9680\out\op.rs

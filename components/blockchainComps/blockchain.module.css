@@ -1,0 +1,12 @@
+.textStyle{
+    font-size: xx-large;
+    font-weight: bold;
+    color:lightcoral;
+    
+}
+
+.newLineContainer{
+    
+    flex-flow: column;
+    gap: 2rem;
+}

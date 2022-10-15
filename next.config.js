@@ -31,6 +31,7 @@ module.exports = {
     // Enables the styled-components SWC transform
     styledComponents: true
   },
+  basePath: '/DemoSite-NextJS',
   cleanDistDir: true,
   webpack: (config, { isServer }) => {
     config.experiments = { asyncWebAssembly: true };

@@ -4,7 +4,7 @@ import Image from "next/image";
 
 import utilStyles from "../../components/first-post.module.css"
 
-import Layout from '../../components/layout';
+import Layout from '../../components/Layout';
 import LimeButton from "../../components/limeButton";
 
 export default function FirstPost(){

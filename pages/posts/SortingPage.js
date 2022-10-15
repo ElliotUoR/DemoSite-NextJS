@@ -1,4 +1,4 @@
-import Layout from '../../components/layout';
+import Layout from '../../components/Layout';
 import Sorter from '../../components/sorting/Sorter';
 import { useSelector } from 'react-redux';
 import { useEffect, useState } from 'react';

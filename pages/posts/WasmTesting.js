@@ -2,7 +2,7 @@
 import { useState } from 'react'
 import style from '../../components/wasmTesting.module.css'
 
-import Layout from '../../components/layout'
+import Layout from '../../components/Layout'
 
 import WasmStringButton from '../../components/wasmComponents/WasmStringButton'
 

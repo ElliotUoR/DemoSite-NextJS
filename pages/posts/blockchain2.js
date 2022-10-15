@@ -1,6 +1,6 @@
 import FloatingText from "../../components/blockchainComps/FloatingText";
 import blockchain from "./blockchain";
-import Layout from "../../components/layout";
+import Layout from "../../components/Layout";
 import HashHandler from "../../components/blockchainComps/HashHandler";
 import { useRef, useState } from "react";
 import HashHolder from "../../components/blockchainComps/HashHolder";

@@ -1,5 +1,5 @@
 import CVContent from "../../components/cvComps/CVContent";
-import Layout, { siteTitle } from "../../components/layout";
+import Layout, { siteTitle } from "../../components/Layout";
 
 export default function cv() {
 

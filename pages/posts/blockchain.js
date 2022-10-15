@@ -1,4 +1,4 @@
-import Layout from "../../components/layout";
+import Layout from "../../components/Layout";
 import FloatingText from "../../components/blockchainComps/FloatingText";
 import TextAnimation from "../../components/blockchainComps/TextAnimation";
 import style from "../../components/blockchainComps/blockchain.module.css";

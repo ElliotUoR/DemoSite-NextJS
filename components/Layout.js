@@ -52,7 +52,7 @@ export default function Layout({ children, home, pageName }) {
         <header className={styles.header}>
           <Image
             priority
-            src="/images/icons/home.png"
+            src="/DemoSite-NextJS/images/icons/home.png"
             className={utilStyles.interactive}
             height={calcImageSize(loaded)}
             width={calcImageSize(loaded)}

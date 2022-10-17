@@ -16,6 +16,7 @@ import { Provider } from 'react-redux'
 export default function App({ Component, pageProps }) {
     return (
         <>
+        
         <Provider store={Store}>
             <BackgroundObjects />
             <LayoutHeader/>

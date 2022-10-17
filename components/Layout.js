@@ -34,7 +34,7 @@ export default function Layout({ children, home, pageName }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href='/favicon.ico' />
+        <link rel="icon" href='/DemoSite-NextJS/favicon.ico' />
         <meta
           name="description"
           content="Demo site built in NextJS"
